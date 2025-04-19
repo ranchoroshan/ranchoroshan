@@ -14,7 +14,7 @@
 📫 How to reach me:
 - 🌐 [roshanpuri.com.np](http://roshanpuri.com.np)
 - 📧 Email: rosan.iotdev@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/itroshan] (https://linkedin.com/in/itroshan)
+- 💼 LinkedIn:(https://linkedin.com/in/itroshan)
 
 ---
 
