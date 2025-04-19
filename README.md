@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshan Puri</h1>
+<!-- GitHub Readme Intro Animation -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Roshan+Puri;IoT+Enthusiast+%7C+Web+Developer;Learning+by+Building+%F0%9F%94%A5;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+</h2>
+
 <h3 align="center">BEIT @ Pokhara University | IoT Enthusiast | Full-Stack Web Developer</h3>
 
 ---
