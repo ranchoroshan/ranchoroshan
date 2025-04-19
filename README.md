@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Roshan Puri</h1>
-<!-- GitHub Readme Intro Animation -->
+<!-- Roshan Puri | GitHub Animated Intro -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Roshan+Puri;IoT+Enthusiast+%7C+Web+Developer;Learning+by+Building+%F0%9F%94%A5;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00FF94&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I'm+Roshan+Puri!;👨‍💻+BEIT+Student+%7C+IoT+Explorer;⚡+Building+Smart+Things+with+Code;🌐+Web+%2B+Hardware+is+my+combo;📚+Follow+my+learning+journey!" alt="Roshan Puri Typing SVG" />
 </h2>
+
 
 <h3 align="center">BEIT @ Pokhara University | IoT Enthusiast | Full-Stack Web Developer</h3>
 
