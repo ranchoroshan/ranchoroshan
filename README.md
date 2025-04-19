@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="roshan-banner.gif" alt="Roshan Banner" />
+  <img src="rancho-banner.gif" alt="Roshan Banner" />
 </p>
 <h2 align="center">👋 Hello, I’m <span style="color:#00FF94">Roshan Puri</span></h2>
 <h4 align="center">IoT Explorer ⚙️ | Full-Stack Developer 💻 | BEIT @ Pokhara University 📚</h4>
